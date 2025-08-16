@@ -1,1 +1,1 @@
-web: gunicorn "nutrizap_ultramsg (2)":app
+web: gunicorn app:app
